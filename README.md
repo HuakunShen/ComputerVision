@@ -1,6 +1,6 @@
 # Computer Vision Learning
 
-## Still Learning
+## Learning In Progress
 
 ## Real Time Face Detection
 
